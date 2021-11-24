@@ -1,0 +1,44 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/style.css">
+    <title>Mosses</title>
+</head>
+<body>
+    <nav class="navbar">
+         <div class="nav">
+            <a href="./index.html">Home</a>
+            <a href="./about.html">About</a>
+            <a href="./contact.html">Contact</a>
+         </div> 
+       
+    </nav>
+    <h1>Mussie</h1>
+    <div class="gallery">
+        <img src="/image/download.jpeg" alt="livepool">
+    </div>
+    <div>
+        
+        <p>This project is About Html on my github account. For more resouce see the link. 
+            <a href="https://github.com/mussie-1480/catch-up">Html</a>
+        </p>
+        <p>This project is about coding for Vscode on my github account. For more resouce see the link
+            <a href="https://github.com/mussie-1480/catch-up/blob/master/index.html">Index-html.</a>
+        </p>
+    </div>
+
+
+
+    <footer class="page-footer">All rights  reserved. Terms and Conditions apply<br>
+        <small>Copyright &copy; <a href="mailto: mussie.zenebe@student.moringaschool.com">Write to my Email</a> -
+            <script>
+                /script to update the year automatically/
+                document.write("<span>" + new Date().getFullYear() + "</span>");
+            </script>
+          <br>
+        </small>
+    </footer>
+</body>
+</html>
